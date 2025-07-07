@@ -4,7 +4,7 @@
   font-weight: 400;
 
   background-repeat: repeat;
-  background-image: url("img/kwiaty-tlo.jpeg");
+  background-image: url("../public/kwiaty-tlo.jpeg");
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
