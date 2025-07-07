@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import { LandingPage } from './LandingPage/landing'
+import { LandingPage } from './LandingPage/Landing'
 import './App.css'
 
 function App() {
